@@ -1,0 +1,194 @@
+@keyframes typing {
+
+      0% {
+       width:14rem;
+        content: "Daniels ";
+      }
+      10% {
+       width:14rem;
+        content: "Daniels ";
+      }
+      20% {
+        width: 0px;
+        content: "Daniels ";
+      }
+      22% {
+        width: 0px;
+        content: "Designer ";
+      }
+      32% {
+       width: 17rem;
+        content: "Designer ";
+      }
+      42% {
+       width: 17rem;
+        content: "Designer ";
+      }
+      52% {
+        width: 0px;
+        content: "Designer ";
+      }
+
+      54% {
+        width: 0px;
+        content: "Developer ";
+      }
+      64% {
+       width: 19rem;
+        content: "Developer ";
+      }
+      74% {
+       width: 19rem;
+        content: "Developer ";
+      }
+      84% {
+        width: 0rem;
+         content: "Developer ";
+       }
+      86% {
+        width:0rem;
+         content: "Daniels ";
+       }
+       96% {
+        width:14rem;
+         content: "Daniels ";
+       }
+       100% {
+        width:14rem;
+         content: "Daniels ";
+       }
+
+      
+    
+}
+@media screen and (max-width:992px) {
+   @keyframes typing {
+
+       0% {
+        width:13rem;
+         content: "Daniels ";
+       }
+       10% {
+        width:13rem;
+         content: "Daniels ";
+       }
+       20% {
+         width: 0px;
+         content: "Daniels ";
+       }
+       22% {
+         width: 0px;
+         content: "Designer ";
+       }
+       32% {
+        width: 15rem;
+         content: "Designer ";
+       }
+       42% {
+        width: 15rem;
+         content: "Designer ";
+       }
+       52% {
+         width: 0px;
+         content: "Designer ";
+       }
+ 
+       54% {
+         width: 0px;
+         content: "Developer ";
+       }
+       64% {
+        width: 17rem;
+         content: "Developer ";
+       }
+       74% {
+        width: 17rem;
+         content: "Developer ";
+       }
+       84% {
+         width: 0rem;
+          content: "Developer ";
+        }
+       86% {
+         width:0rem;
+          content: "Daniels ";
+        }
+        96% {
+         width:13rem;
+          content: "Daniels ";
+        }
+        100% {
+         width:13rem;
+          content: "Daniels ";
+        }
+ 
+       
+     
+ }
+}
+
+@media screen and (max-width:768px) {
+    @keyframes typing {
+
+        0% {
+         width:10.6rem;
+          content: "Daniels ";
+        }
+        10% {
+         width:10.6rem;
+          content: "Daniels ";
+        }
+        20% {
+          width: 0px;
+          content: "Daniels ";
+        }
+        22% {
+          width: 0px;
+          content: "Designer ";
+        }
+        32% {
+         width: 13rem;
+          content: "Designer ";
+        }
+        42% {
+         width: 13rem;
+          content: "Designer ";
+        }
+        52% {
+          width: 0px;
+          content: "Designer ";
+        }
+  
+        54% {
+          width: 0px;
+          content: "Developer ";
+        }
+        64% {
+         width: 14.5rem;
+          content: "Developer ";
+        }
+        74% {
+         width: 14.5rem;
+          content: "Developer ";
+        }
+        84% {
+          width: 0rem;
+           content: "Developer ";
+         }
+        86% {
+          width:0rem;
+           content: "Daniels ";
+         }
+         96% {
+          width:10.6rem;
+           content: "Daniels ";
+         }
+         100% {
+          width:10.6rem;
+           content: "Daniels ";
+         }
+  
+        
+      
+  }
+}
